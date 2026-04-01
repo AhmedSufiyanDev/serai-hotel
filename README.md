@@ -1,2 +1,10 @@
-Pakistan Water & Power Development Authority
-The Pakistan Water and Power Development Authority (WAPDA) was established through an act of parliament in February 1958 for integrated and rapid development and maintenance of water and power resources of the country. This includes controlling soil salinity and water logging to rehabilitate the affected land in order to strengthen the predominantly agricultural economy of the country.
+ Features
+
+-  Room management system (add, update, delete rooms)  
+-  Booking & reservation management  
+-  Customer information handling  
+-  Order / billing management  
+-  Search & filter functionality  
+-  Dashboard for managing hotel operations  
+-  Secure and structured data handling  
+-  Responsive design for all devices  
