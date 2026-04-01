@@ -1,0 +1,30 @@
+body {
+    margin: 0 !important;
+    font-family: 'roboto-condensed' !important;
+    /*font-family: 'Roboto', 'sans-serif' !important;*/
+    font-style: normal;
+    background: #fcfafa !important;
+}
+
+.MuiTypography-body1 {
+    font-family: 'roboto-condensed' !important;
+}
+
+.MuiAppBar-colorPrimary {
+    background-color: #36BA80 !important;
+}
+
+.MuiButton-textPrimary {
+    color: #36BA80 !important;
+}
+
+@font-face {
+    font-family: 'Rajdhani';
+    src: local('Rajdhani'), url(./fonts/glyphicons-halflings-regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'roboto-condensed';
+    /*src: local('Lato'), url(./fonts/RobotoCondensed-Regular.ttf) format('opentype');*/
+    src: local('Lato'), url('./fonts/RobotoCondensed-Regular.ttf') format('opentype');
+}

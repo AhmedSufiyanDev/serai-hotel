@@ -1,0 +1,186 @@
+.features-div-room{
+    border-top: none !important;
+}
+
+.dates-div{
+    padding:23px;
+}
+
+
+.header-heigt-fixss {
+    height: 70px;
+    margin-top: 94px;
+    background: #F3F8FC;
+    display: flex;
+    align-items: center;
+}
+
+.section-margin{
+    margin-top: 0px;
+}
+
+.breadcrum{
+    color: #7E7E7E;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px;
+}
+
+.room-title h1{
+    color: #1E3354;
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: 48px; /* 114.286% */
+    text-transform: uppercase;
+}
+
+.room-txt p{
+    color: #7E7E7E;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 32px;
+    margin-bottom: 0px;
+    text-align: right;
+
+}
+
+.room-price p{
+    color: #AA8453;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: 31.997px;
+    margin-top: 0px;
+}
+
+.dots-carosal .owl-nav.disabled + .owl-dots {
+  position: absolute !important;
+  left: 50px !important;
+  bottom: 10px !important;
+}
+
+.btn-serach-detail{
+    margin-top: 32px;
+    margin-left: 19px;
+    background: #978667 !important;
+    border-radius: 12px;
+    font-weight: 400;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: white !important;
+    line-height: 12px;
+    height: 49px;
+    align-items: center;
+    padding: 17px 13px;
+    text-decoration: none;
+    border: none;
+    width: 100%;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.btn-serach-available{
+    margin-top: 32px;
+    margin-left: 19px;
+    background: rgba(151, 134, 103, 0.50) !important;
+    border-radius: 12px;
+    font-weight: 400;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: white !important;
+    line-height: 12px;
+    height: 49px;
+    align-items: center;
+    padding: 17px 13px;
+    text-decoration: none;
+    border: none;
+    width: 100%;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+
+.booking-details{
+    border-radius: 22px;
+    background: #F3F8FC;
+    height: 334px;
+}
+
+.margin-date{
+    margin-bottom: 34px;
+}
+
+.room-date-guest{
+    display: flex;
+    justify-content: center;
+}
+
+.room-date-guest h1{
+    color: #525252;
+    text-align: center;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: 36px; /* 150% */
+}
+
+.room-services h1{
+    color: #1E3354;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: 48px; /* 133.333% */
+    text-transform: uppercase;
+}
+
+.feature-name p{
+    color: #7E7E7E;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px; /* 137.5% */
+    font-family: 'Montserrat', sans-serif;
+}
+
+.features-div-room {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+
+.features-inner-div {
+    display: flex;
+    flex-flow: column;
+    width: 120px;
+    margin-right: 60px;
+    margin-bottom: 34px;
+}
+
+.room-desc{
+    margin-bottom: 70px;
+}
+
+.room-desc h1{
+    color: #1E3354;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: 48px; /* 133.333% */
+    text-transform: uppercase;
+}
+
+.room-desc p{
+    color: #7E7E7E;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 32px; /* 177.778% */
+}
+
+.dots-slick .slick-dots{
+    bottom: 25px !important;
+    right: 360px !important;
+}
+
+

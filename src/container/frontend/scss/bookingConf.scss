@@ -1,0 +1,300 @@
+.header-heigt-fix {
+    height: 94px;
+}
+
+.head-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: #F6F3EA;
+    border-radius: 15px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    margin-bottom: 60px;
+}
+
+.head-box .svg-div {
+    display: flex;
+    justify-content: center;
+}
+
+.header-booking-confirm {
+    height: 70px;
+    width: 100%;
+    background: #F6F6F6;
+    display: flex;
+    align-items: center;
+}
+
+.breadcrum-blogs {
+    color: #7E7E7E;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 32px;
+}
+
+.book-cnfrm-heading {
+    color: #1E3354;
+    font-family: Nunito Sans;
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: 48px;
+    /* 114.286% */
+    text-transform: uppercase;
+    margin: 19px 0px 4px 0px;
+
+}
+.booking-cnfrm{
+    color: #7E7E7E;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 32px;
+    margin-top: 10px;
+    margin-bottom: 0px; 
+}
+.booking-cnfrm-descp {
+    color: #7E7E7E;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 32px;
+    margin: 0px;
+}
+
+.head-box h2 {
+    font-family: 'Cormorant';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 58px;
+    text-align: center;
+    color: #123F36;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.head-box p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #4D4D4D;
+    margin: 0px;
+}
+
+.summary-heading {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 40px;
+    flex-flow: row wrap;
+}
+
+.summary-heading h3 {
+    font-family: 'Cormorant';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 58px;
+    color: #000000;
+    margin: 0px;
+}
+
+.booking-details h4 {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 28px;
+    color: #4D4D4D;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+
+.download-button {
+    height: 50px;
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+    color: #123F36;
+    background: #E6B022 !important;
+    border-radius: 50px;
+}
+
+.download-button svg {
+    margin-right: 15px;
+}
+
+.table-outer {
+    border: 1px solid #CFCFCF;
+    border-radius: 10px;
+    margin-bottom: 50px;
+}
+
+.confirm-detail-main {
+    // height: 797px;
+    height: 566px;
+    border-radius: 22px;
+    background: #F3F8FC;
+    padding: 0px 26px 43px 30px;
+}
+
+.confirm-book-main {
+    width: 461px;
+    height: 607px;
+    border-radius: 22px;
+    background: #F3F8FC;
+    margin-top: 20px;
+}
+
+.tick-padd {
+    padding: 50px 90px 0px 100px;
+
+}
+
+.text-detail-booking h2 {
+    color: #525252;
+    text-align: center;
+    font-family: Nunito Sans;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: 20px;
+    text-transform: uppercase;
+}
+
+.text-detail-booking p {
+    color: #7E7E7E;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 28px;
+}
+
+.dashes-style-book {
+    border: none;
+    height: 1px;
+    background: repeating-linear-gradient(90deg, #DCE1E5, #DCE1E5 6px, transparent 6px, transparent 12px);
+}
+
+.amount-paid {
+    text-align: center;
+    justify-content: center;
+}
+
+.amount-paid h2 {
+    color: #7E7E7E;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 28px;
+    padding: 35px 0px 0px 0px;
+}
+
+.amount-paid span {
+    color: #232631;
+    text-align: center;
+    font-size: 42px;
+    font-weight: 600;
+    line-height: 24px;
+}
+
+.booking-summary {
+    color: #232631;
+    font-size: 24px;
+    font-weight: 200;
+    line-height: 36px;
+    padding: 30px 0px 0px 0px;
+}
+
+.billing-div-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+    border-bottom: 1px solid #DCE1E5;
+}
+
+.billing-div-row .left-span {
+    color: #4D4D4D;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.billing-div-row .right-span {
+    text-align: right;
+    color: #232631;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: normal;
+}
+
+
+
+.dash-line-confirm {
+    border: none;
+    height: 1px;
+    background: repeating-linear-gradient(90deg, #DCE1E5, #DCE1E5 6px, transparent 6px, transparent 12px);
+    margin-top: 35px;
+}
+
+.hr-dot {
+    position: relative;
+}
+
+.hr-dot::before,
+.hr-dot::after {
+    content: "";
+    position: absolute;
+    top: -8px;
+    /* Adjust the value to position the dot */
+    width: 16px;
+    /* Adjust the size of the dot */
+    height: 16px;
+    /* Adjust the size of the dot */
+    background-color: white;
+    border-radius: 50%;
+}
+
+.hr-dot::before {
+    left: -8px;
+    /* Position the dot at the start of the <hr> */
+}
+
+.hr-dot::after {
+    right: -8px;
+    /* Position the dot at the end of the <hr> */
+}
+
+
+
+@media (max-width: 767px) {
+    .head-box {
+        margin-bottom: 30px;
+    }
+
+    .head-box h2 {
+        font-size: 30px;
+        line-height: 45px;
+        margin-top: 20px;
+    }
+
+    .head-box p {
+        font-size: 14px;
+    }
+
+    .summary-heading {
+        margin-bottom: 25px;
+    }
+
+    .summary-heading h3 {
+        font-size: 35px;
+    }
+
+    .table-outer {
+        margin-bottom: 30px;
+    }
+}

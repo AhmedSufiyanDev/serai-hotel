@@ -1,0 +1,267 @@
+.header-heigt-account {
+    height: 94px;
+}
+
+.header-account {
+    height: 70px;
+    width: 100%;
+    background: #F6F6F6;
+    display: flex;
+    align-items: center;
+}
+
+.breadcrum-account {
+    color: #7E7E7E;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 32px;
+}
+
+.account-heading {
+    color: #1E3354;
+    font-size: 42px;
+    font-weight: 200;
+    line-height: 48px;
+    text-transform: uppercase;
+    margin: 70px 0px 53px 0px;
+
+}
+
+.menu-div-main {
+    border-bottom: 1px solid #DCE1E5;
+    width: 305px;
+    padding: 11px 8px 0px 10px;
+}
+
+.menu-div-main:first-child {
+    border-bottom: none;
+}
+
+
+.menu-ul-main {
+    list-style-type: none;
+    padding: 0px;
+}
+
+.menu-li-style {
+    cursor: pointer;
+}
+
+.flex-div-space {
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu-li-style span {
+    color: #232631;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: normal;
+    padding: 19px;
+}
+
+.profile-div-account {
+    height: 679px;
+    border-radius: 22px;
+    background: #F3F8FC;
+    margin-bottom: 80px;
+    padding: 20px;
+
+}
+
+.main-profile-title {
+    color: #232631;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: uppercase;
+    padding: 16px 0px 0px 22px;
+}
+
+.edit-btn {
+    color: #AA8453;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    text-transform: uppercase;
+    width: 115px;
+    height: 36px;
+    border-radius: 12px;
+    background-color: transparent;
+    border: 1px solid #AA8453;
+    margin: 44px 12px 0px 0px;
+    cursor: pointer;
+}
+
+.edit-icon {
+    margin: 1px 11px 0px 0px;
+}
+
+.account-circle-icon {
+    font-size: 60px;
+}
+
+.profile-name-text {
+    color: #4D4D4D;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.line-color {
+    border-bottom: 1px solid #DCE1E5;
+}
+
+.text-fields-style {
+    width: 40%;
+    margin-bottom: 15px;
+}
+
+.save-btn {
+    border-radius: 12px;
+    background: #AA8453;
+    color: #FFF;
+    text-align: center;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 24px;
+    padding: 5px 20px 5px 20px;
+}
+
+.btn-div {
+    float: right;
+}
+
+.active-menu {
+    border-radius: 12px;
+    background: #F3F8FC;
+    padding: 5px 0px 5px 10px;
+
+}
+
+.boking-history-head {
+    color: #232631;
+    font-family: Nunito Sans;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.btn-main-conainer button {
+    width: 116px;
+    height: 48px;
+    border-radius: 12px;
+    background: #FFF;
+}
+
+.btn-main-conainer .act-btn {
+    color: #797C7E;
+    font-family: Nunito Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    border: none;
+}
+
+.btn-main-conainer .act-btn1 {
+    color: #FFF;
+    text-align: center;
+    font-family: Nunito Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    background: #AA8453;
+    border: none;
+
+}
+.btn-main-conainer button {
+    margin-right: 20px;
+}
+.detail-booking-history {
+    height: 48px;
+    border-radius: 12px;
+    border: 1px solid #DCE1E5;
+    background: #FFF;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+}
+
+.box-top {
+    margin-top: 40px;
+
+}
+
+.detail-booking-history span {
+    padding: 10px 0px 0px 0px;
+    color: #797C7E;
+    font-family: Nunito Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    /* 171.429% */
+    text-transform: capitalize;
+}
+
+.detail-booking-history .title-font {
+    color: #232631;
+    font-family: 'Nunito Sans';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    /* 171.429% */
+    text-transform: capitalize;
+}
+
+.detail-booking-history .price-font {
+    color: #AA8453;
+    font-family: 'Nunito Sans';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+    /* 171.429% */
+    text-transform: capitalize;
+}
+.norooms-book {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 334px;
+    flex-flow: column;
+    background: white;
+    margin: 55px auto 20px;
+    width: 357px;
+    border-radius: 12px;
+}
+.norooms-book h5 {
+    color: #232631;
+    text-align: center;
+    font-family: "Montserrat";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+    margin: 7px 0px 12px;
+}
+.norooms-book button {
+    color: #AA8453;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    border-radius: 12px;
+    border: 1px solid #AA8453;
+    background: transparent;
+    padding: 9px 20px;
+}

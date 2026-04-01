@@ -1,0 +1,19 @@
+.d-block{
+ display: block !important;
+}
+
+.d-flex{
+ display: flex !important;
+}
+
+.f-wrap{
+    flex-wrap: wrap;
+}
+
+.m-10{
+    margin: 10px !important;
+}
+
+.p-10{
+    padding: 10px !important;
+}

@@ -1,0 +1,76 @@
+{
+  "name": "wapda_frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/icons": "4.11.2",
+    "@material-ui/lab": "4.0.0-alpha.58",
+    "@react-pdf-viewer/core": "^3.10.0",
+    "@react-pdf-viewer/default-layout": "^3.10.0",
+    "@react-pdf-viewer/thumbnail": "^3.10.0",
+    "@stripe/react-stripe-js": "^2.3.2",
+    "@stripe/stripe-js": "^2.1.11",
+    "axios": "^0.21.1",
+    "clsx": "^1.1.1",
+    "cors-anywhere": "^0.4.4",
+    "react": "^17.0.2",
+    "react-countdown": "^2.3.5",
+    "react-custom-scrollbars": "^4.2.1",
+    "react-date-picker": "^10.0.3",
+    "react-datepicker": "^4.11.0",
+    "react-dates": "^21.8.0",
+    "react-dom": "^17.0.2",
+    "react-draggable": "^4.4.4",
+    "react-facebook-pixel": "^1.0.4",
+    "react-ga4": "^2.1.0",
+    "react-google-charts": "^4.0.0",
+    "react-grid-carousel": "^1.0.1",
+    "react-helmet": "^6.1.0",
+    "react-image-gallery": "^1.2.11",
+    "react-lottie": "^1.2.3",
+    "react-material-ui-carousel": "^3.4.2",
+    "react-modal": "^3.16.1",
+    "react-modal-video": "^2.0.0",
+    "react-multilevel-dropdown": "^3.0.3",
+    "react-multilevel-sidebar": "^1.0.4",
+    "react-open-weather": "^1.3.2",
+    "react-pdf": "^6.2.2",
+    "react-perfect-scrollbar": "^1.5.8",
+    "react-player": "^2.12.0",
+    "react-range": "^1.8.14",
+    "react-redux": "^7.2.4",
+    "react-reveal": "^1.2.2",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^5.0.1",
+    "react-share": "^4.4.1",
+    "react-simple-image-viewer": "^1.2.2",
+    "react-simple-tooltip": "^2.6.3",
+    "react-slick": "^0.29.0",
+    "react-swipeable-views": "^0.14.0",
+    "react-youtube": "^10.1.0",
+    "redux": "^4.1.0",
+    "redux-saga": "^1.1.3",
+    "slick-carousel": "^1.8.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "sass": "^1.57.1"
+  }
+}
